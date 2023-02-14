@@ -1,4 +1,4 @@
-# 搭建VPN服务器
+# 搭建IPSEC VPN服务器
 ## 拉取镜像
 ```sh
 docker pull hwdsl2/ipsec-vpn-server
