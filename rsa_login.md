@@ -9,7 +9,7 @@ ssh-keygen -t rsa
 cat id_rsa.pub >> /root/.ssh/authorized_keys
 ```
 
-## 修改sshd配置文件
+## 修改sshd配置文件的值 -- /etc/ssh/sshd_config
 ```sh
 # 不允许密码登陆
 PasswordAuthentication no
