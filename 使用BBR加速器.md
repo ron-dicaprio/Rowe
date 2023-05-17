@@ -6,3 +6,8 @@
 
 # 启动BBR安装
 ## ./bbr.sh
+
+# 验证bbr安装成功
+```sh
+# lsmod |grep bbr
+```
